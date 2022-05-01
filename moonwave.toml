@@ -1,0 +1,11 @@
+title = 'Bloxios'
+author = ""
+
+[docusaurus]
+onBrokenLinks = "throw"
+onBrokenMarkdownLinks = "warn"
+
+
+[footer]
+style = "dark"
+copyright = "Copyright © 2022 kyexyz. Built with Moonwave and Docusaurus"
