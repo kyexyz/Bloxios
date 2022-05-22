@@ -1,13 +1,12 @@
 [package]
 name = "kyexyz/bloxios"
 description = "Roblox Http Client"
-version = "1.0.0"
+version = "1.0.12"
 license = "MIT"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
+exclude = ['build', 'docs', 'moonwave.toml', 'roblox.toml', 'selene.toml']
 
 [dependencies]
 Promise = "evaera/promise@^4"
 TableUtil = "sleitnick/table-util@^1"
-Signal = "sleitnick/signal@1.1.0"
-Janitor = "howmanysmall/janitor@^1.14.1"
