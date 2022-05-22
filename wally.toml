@@ -4,7 +4,7 @@ description = "Roblox Http Client"
 version = "1.0.12"
 license = "MIT"
 registry = "https://github.com/UpliftGames/wally-index"
-realm = "shared"
+realm = "server"
 exclude = ['build', 'docs', 'moonwave.toml', 'roblox.toml', 'selene.toml']
 
 [dependencies]
